@@ -1,0 +1,13 @@
+{
+  "name": "MQTT-broker",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "underscore": "~1.7.0",
+    "mqtt": "~1.0.5"
+  },
+  "engine": "0.10.x"
+}
