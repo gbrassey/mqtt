@@ -9,5 +9,7 @@
     "underscore": "~1.7.0",
     "mqtt": "~1.0.5"
   },
-  "engine": "0.10.x"
+  "engines": {
+    "node": "0.10.x"
+  }
 }
